@@ -9,3 +9,4 @@
 
 [Github-A collection of Alfred 3 and 4 workflows that will rock your world](https://github.com/zenorocha/alfred-workflows)
 
+[Workflows](https://www.alfredapp.com/help/workflows/)
