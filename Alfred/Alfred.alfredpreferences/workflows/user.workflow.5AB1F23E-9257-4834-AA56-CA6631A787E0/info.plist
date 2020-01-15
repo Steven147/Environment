@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string></string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>83DCF316-AD69-46F3-9A25-1EC98A5D6C54</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FCC8590B-6959-4AB2-A1B1-2FDC435530DB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>lin shaoqin</string>
+	<key>description</key>
+	<string>modify setting via keyword</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Using Setting</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>dark-mode;exit</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.terminalcommand</string>
+			<key>uid</key>
+			<string>FCC8590B-6959-4AB2-A1B1-2FDC435530DB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>mode</string>
+				<key>subtext</key>
+				<string>Switch mode between dark and adjust</string>
+				<key>text</key>
+				<string>Dark mode</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>83DCF316-AD69-46F3-9A25-1EC98A5D6C54</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>83DCF316-AD69-46F3-9A25-1EC98A5D6C54</key>
+		<dict>
+			<key>xpos</key>
+			<integer>95</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
+		<key>FCC8590B-6959-4AB2-A1B1-2FDC435530DB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>245</integer>
+			<key>ypos</key>
+			<integer>40</integer>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
