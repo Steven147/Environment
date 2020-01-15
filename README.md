@@ -3,7 +3,13 @@
 储存与编程、代码、workflow、脚本相关的
 基础软件、配置文件
 
-## Alfred mac入口、文件管理、脚本载体
+## macOS 环境搭建
+
+### 软件安装
+
+#### vscode：
+
+#### Alfred： mac入口、文件管理、脚本载体
 
 [Tutorial-Alfred-Workflow](http://www.deanishe.net/alfred-workflow/tutorial.html)
 
