@@ -15,13 +15,10 @@
 
 #### Alfred： mac入口、文件管理、脚本载体
 
-* 同步：
-  * alfred文件夹位置：/Users/lsq/Library/Application\ Support/Alfred
-  * github repositories：alfred
+* 同步：[Syncing Your Alfred Settings Between Macs](https://www.alfredapp.com/help/advanced/sync/)
+  * github repositories：Environment/Alfred
+  * advanced -> Syncing -> set preferrence folders...
 
 * [Tutorial-Alfred-Workflow](http://www.deanishe.net/alfred-workflow/tutorial.html)
 * [Github-A collection of Alfred 3 and 4 workflows that will rock your world](https://github.com/zenorocha/alfred-workflows)
 * [Workflows](https://www.alfredapp.com/help/workflows/)
-
-
-## Windows 环境搭建
