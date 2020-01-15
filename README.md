@@ -11,6 +11,9 @@
 
 #### [VScode](https://code.visualstudio.com/)：文本编辑、扩展插件
 
+* 同步：
+  > Sync: 上传完成。[Gist](https://gist.github.com/mine)ID:1add6afffd60e8846d95dee2ff943089。请复制这个 ID 并将其用于其他设备来下载配置。
+
 #### [百度网盘](http://pan.baidu.com/download#pan)：[网盘](https://pan.baidu.com/disk/home?#/all?path=%2F&vmode=list)、下载器
 
 #### Alfred： mac入口、文件管理、脚本载体
