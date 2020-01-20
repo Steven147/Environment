@@ -7,7 +7,9 @@
 
 ### 软件安装
 
-#### [firefox](http://www.firefox.com.cn/)：网页书签、扩展插件
+#### [chrome](https://www.google.cn/chrome/index.html)：网页书签、扩展插件
+
+1. [谷歌访问助手](https://www.crx4chrome.com/crx/49307/)
 
 #### [VScode](https://code.visualstudio.com/)：文本编辑、扩展插件
 
