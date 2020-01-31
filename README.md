@@ -7,6 +7,8 @@
 
 ### 软件安装
 
+[Mac软件管家](https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw)
+
 #### [chrome](https://www.google.cn/chrome/index.html)：网页书签、扩展插件
 
 1. [谷歌访问助手](https://www.crx4chrome.com/crx/49307/)
