@@ -5,6 +5,31 @@
 
 ## macOS 环境搭建
 
+### fq搭建过程
+
+[KOPCLOUD加速器 最新地址发布](https://kopcloud-com.oss-cn-hongkong.aliyuncs.com/)
+
+[KOPCLOUD加速器 永久域名（需翻墙访问）](https://www.kopcloud.com/)
+
+购买套餐，下载客户端
+
+[**软件需求**](https://wiki.kopjiasu.top/)
+
+- macOS：shadowsocks
+- iOS：[shadowrocket](https://github.com/v2net/Apple)
+  - 下载
+    - 注册美区appid
+    - 自动发货-价值$2.99的苹果美区Shadowrocket小火箭兑换码
+    - 通过App Store兑换渠道兑换
+  - 填入[订阅地址](https://www.kopcloud.com/user)，自动同步
+
+### 邮箱同步
+
+- [QQ邮箱，常联系](https://mail.qq.com/)
+  - 账户，开启服务，生成授权码
+  - qq安全中心app
+- [edu邮箱 苹果IOS 邮件应用如何连接邮箱](https://net.sjtu.edu.cn/info/1079/1299.htm)
+
 ### 软件安装
 
 [Mac软件管家](https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw)
