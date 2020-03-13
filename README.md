@@ -30,6 +30,22 @@
   - qq安全中心app
 - [edu邮箱 苹果IOS 邮件应用如何连接邮箱](https://net.sjtu.edu.cn/info/1079/1299.htm)
 
+### [anaconda](https://www.anaconda.com/)
+
+
+windows powershell [准备](https://blog.csdn.net/www110120119/article/details/97613040)
+> windows 在powershell中使用需要先更新conda
+```shell
+> conda init powershell
+```
+
+激活环境
+
+```shell
+> activate <name>
+```
+
+
 ### 软件安装
 
 [Mac软件管家](https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw)
@@ -37,6 +53,8 @@
 #### [chrome](https://www.google.cn/chrome/index.html)：网页书签、扩展插件
 
 1. [谷歌访问助手](https://www.crx4chrome.com/crx/49307/)
+
+> 可以用翻q插件完全代替
 
 #### [VScode](https://code.visualstudio.com/)：文本编辑、扩展插件
 
