@@ -4,10 +4,6 @@
 <dict>
 	<key>hidehat</key>
 	<true/>
-	<key>hidemenu</key>
-	<true/>
-	<key>hideshortcuts</key>
-	<true/>
 	<key>hidesubtext</key>
 	<integer>2</integer>
 	<key>showOnScreen</key>
