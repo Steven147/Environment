@@ -3,12 +3,11 @@
 - [Environment 我的环境仓库](#environment-%e6%88%91%e7%9a%84%e7%8e%af%e5%a2%83%e4%bb%93%e5%ba%93)
   - [macOS 环境搭建](#macos-%e7%8e%af%e5%a2%83%e6%90%ad%e5%bb%ba)
     - [设置](#%e8%ae%be%e7%bd%ae)
-  - [Alfred： mac入口、文件管理、脚本载体](#alfred-mac%e5%85%a5%e5%8f%a3%e6%96%87%e4%bb%b6%e7%ae%a1%e7%90%86%e8%84%9a%e6%9c%ac%e8%bd%bd%e4%bd%93)
-  - [homebrew](#homebrew)
+    - [Alfred： mac入口、文件管理、脚本载体](#alfred-mac%e5%85%a5%e5%8f%a3%e6%96%87%e4%bb%b6%e7%ae%a1%e7%90%86%e8%84%9a%e6%9c%ac%e8%bd%bd%e4%bd%93)
+    - [homebrew](#homebrew)
   - [fq过程](#fq%e8%bf%87%e7%a8%8b)
   - [邮箱同步](#%e9%82%ae%e7%ae%b1%e5%90%8c%e6%ad%a5)
-    - [anaconda](#anaconda)
-    - [软件安装](#%e8%bd%af%e4%bb%b6%e5%ae%89%e8%a3%85)
+  - [anaconda](#anaconda)
   - [百度网盘：网盘、下载器](#%e7%99%be%e5%ba%a6%e7%bd%91%e7%9b%98%e7%bd%91%e7%9b%98%e4%b8%8b%e8%bd%bd%e5%99%a8)
   - [chrome：网页书签、扩展插件](#chrome%e7%bd%91%e9%a1%b5%e4%b9%a6%e7%ad%be%e6%89%a9%e5%b1%95%e6%8f%92%e4%bb%b6)
   - [VScode：文本编辑、扩展插件](#vscode%e6%96%87%e6%9c%ac%e7%bc%96%e8%be%91%e6%89%a9%e5%b1%95%e6%8f%92%e4%bb%b6)
@@ -24,7 +23,7 @@
 
 三指拖移：完全替代**点击及拖动**
 
-## Alfred： mac入口、文件管理、脚本载体
+### Alfred： mac入口、文件管理、脚本载体
 
 > ```sudo mdutil -a -i on``` 
 > 如果搜索失败，试着打开索引试试
@@ -37,7 +36,7 @@
 - [Github-A collection of Alfred 3 and 4 workflows that will rock your world](https://github.com/zenorocha/alfred-workflows)
 - [Workflows](https://www.alfredapp.com/help/workflows/)
 
-## [homebrew](https://brew.sh/)
+### [homebrew](https://brew.sh/)
 
 > brew install <package name> // 安装
 > brew upgrade <package name> // 更新
@@ -83,11 +82,11 @@
   - qq安全中心app
 - [edu邮箱 苹果IOS 邮件应用如何连接邮箱](https://net.sjtu.edu.cn/info/1079/1299.htm)
 
-### [anaconda](https://www.anaconda.com/)
-
+## [anaconda](https://www.anaconda.com/)
 
 windows powershell [准备](https://blog.csdn.net/www110120119/article/details/97613040)
 > windows 在powershell中使用需要先更新conda
+
 ```shell
 > conda init powershell
 ```
@@ -97,9 +96,6 @@ windows powershell [准备](https://blog.csdn.net/www110120119/article/details/9
 ```shell
 > activate <name>
 ```
-
-
-### 软件安装
 
 ## 百度网盘：网盘、下载器
 
