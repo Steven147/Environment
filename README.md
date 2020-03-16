@@ -1,26 +1,26 @@
-# 0 Environment 我的环境仓库
+# Environment 我的环境仓库
 
-- [0 Environment 我的环境仓库](#0-environment-%e6%88%91%e7%9a%84%e7%8e%af%e5%a2%83%e4%bb%93%e5%ba%93)
-  - [1 macOS 环境搭建](#1-macos-%e7%8e%af%e5%a2%83%e6%90%ad%e5%bb%ba)
-    - [1.1 设置](#11-%e8%ae%be%e7%bd%ae)
+- [Environment 我的环境仓库](#environment-%e6%88%91%e7%9a%84%e7%8e%af%e5%a2%83%e4%bb%93%e5%ba%93)
+  - [macOS 环境搭建](#macos-%e7%8e%af%e5%a2%83%e6%90%ad%e5%bb%ba)
+    - [设置](#%e8%ae%be%e7%bd%ae)
   - [Alfred： mac入口、文件管理、脚本载体](#alfred-mac%e5%85%a5%e5%8f%a3%e6%96%87%e4%bb%b6%e7%ae%a1%e7%90%86%e8%84%9a%e6%9c%ac%e8%bd%bd%e4%bd%93)
   - [homebrew](#homebrew)
   - [fq过程](#fq%e8%bf%87%e7%a8%8b)
   - [邮箱同步](#%e9%82%ae%e7%ae%b1%e5%90%8c%e6%ad%a5)
     - [anaconda](#anaconda)
     - [软件安装](#%e8%bd%af%e4%bb%b6%e5%ae%89%e8%a3%85)
-  - [百度网盘：[网盘](https://pan.baidu.com/disk/home?#/all?path=%2F&vmode=list)、下载器](#%e7%99%be%e5%ba%a6%e7%bd%91%e7%9b%98%e7%bd%91%e7%9b%98%e4%b8%8b%e8%bd%bd%e5%99%a8)
+  - [百度网盘：网盘、下载器](#%e7%99%be%e5%ba%a6%e7%bd%91%e7%9b%98%e7%bd%91%e7%9b%98%e4%b8%8b%e8%bd%bd%e5%99%a8)
   - [chrome：网页书签、扩展插件](#chrome%e7%bd%91%e9%a1%b5%e4%b9%a6%e7%ad%be%e6%89%a9%e5%b1%95%e6%8f%92%e4%bb%b6)
   - [VScode：文本编辑、扩展插件](#vscode%e6%96%87%e6%9c%ac%e7%bc%96%e8%be%91%e6%89%a9%e5%b1%95%e6%8f%92%e4%bb%b6)
 
 储存与编程、代码、workflow、脚本相关的
 基础软件、配置文件
 
-## 1 macOS 环境搭建
+## macOS 环境搭建
 
 [Mac软件管家](https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw)
 
-### 1.1 设置
+### 设置
 
 三指拖移：完全替代**点击及拖动**
 
@@ -101,8 +101,9 @@ windows powershell [准备](https://blog.csdn.net/www110120119/article/details/9
 
 ### 软件安装
 
-## [百度网盘](http://pan.baidu.com/download#pan)：[网盘](https://pan.baidu.com/disk/home?#/all?path=%2F&vmode=list)、下载器
+## 百度网盘：网盘、下载器
 
+[百度网盘](http://pan.baidu.com/download#pan)：[在线网盘](https://pan.baidu.com/disk/home?#/all?path=%2F&vmode=list)
 
 ## [chrome](https://www.google.cn/chrome/index.html)：网页书签、扩展插件
 
