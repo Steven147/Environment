@@ -19,6 +19,8 @@
 
 [Mac软件管家](https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw)
 
+### git环境（下载Xcode）
+
 ### 设置
 
 三指拖移：完全替代**点击及拖动**
@@ -37,6 +39,8 @@
 - [Workflows](https://www.alfredapp.com/help/workflows/)
 
 ### [homebrew](https://brew.sh/)
+
+[Mac 安装 brew（最新教程，绝对可行，一行代码搞定，不报错） - LeeHua - 开发者的网上家园](https://www.cnblogs.com/liyihua/p/12753163.html)
 
 > brew install <package name> // 安装
 > brew upgrade <package name> // 更新
