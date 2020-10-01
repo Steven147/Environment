@@ -57,6 +57,12 @@
  brew update
 ```
 
+### [mos](https://github.com/Caldis/Mos)
+
+```shell
+$ brew cask install mos
+```
+
 ## fq过程
 
 [KOPCLOUD加速器 最新地址发布](https://kopcloud-com.oss-cn-hongkong.aliyuncs.com/)
