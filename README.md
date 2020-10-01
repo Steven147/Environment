@@ -67,6 +67,8 @@
 $ brew cask install mos
 ```
 
+### [Mac 上使用百度网盘很烦躁？花点时间配置 aria2 吧 - 少数派](https://sspai.com/post/32167)
+
 ## fq过程
 
 [KOPCLOUD加速器 最新地址发布](https://kopcloud-com.oss-cn-hongkong.aliyuncs.com/)
